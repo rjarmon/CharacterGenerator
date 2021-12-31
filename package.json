@@ -1,0 +1,10 @@
+{
+  "name": "charactergenerator",
+  "version": "1.0.0",
+  "description": "A JavaScript console app that randomly generates a D&D character out of a pre-set collection of races, classes, backgrounds, and randomly rolled ability scores (strength, wisdom, dexterity, etc.)",
+  "main": "script.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Ryan Jarmon",
+  "license": "MIT"
+}
