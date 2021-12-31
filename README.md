@@ -51,13 +51,13 @@ Charisma [15]
 
 ---------
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rjarmon/charactergenerator)
-![GitHub contributors](https://img.shields.io/github/contributors/rjarmon/charactergenerator?style=plastic)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/rjarmon/charactergenerator?style=plastic)
-![GitHub forks](https://img.shields.io/github/forks/rjarmon/charactergenerator?style=plastic)
-![GitHub stars](https://img.shields.io/github/stars/rjarmon/charactergenerator?style=plastic)
-![GitHub](https://img.shields.io/github/license/rjarmon/charactergenerator)
-![GitHub issues](https://img.shields.io/github/issues/rjarmon/charactergenerator?style=plastic)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rjarmon/CharacterGenerator)
+![GitHub contributors](https://img.shields.io/github/contributors/rjarmon/CharacterGenerator?style=plastic)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rjarmon/CharacterGenerator?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/rjarmon/CharacterGenerator?style=plastic)
+![GitHub stars](https://img.shields.io/github/stars/rjarmon/CharacterGenerator?style=plastic)
+![GitHub](https://img.shields.io/github/license/rjarmon/CharacterGenerator)
+![GitHub issues](https://img.shields.io/github/issues/rjarmon/CharacterGenerator?style=plastic)
 ![Discord](https://img.shields.io/discord/926195512644874271?color=blue&label=Discord&logo=Discord&style=plastic)
 ![Twitch Status](https://img.shields.io/twitch/status/thepolkawarlord?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAtxepM8_SW6epHIVGuWdLg?style=social)
