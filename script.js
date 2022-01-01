@@ -7,7 +7,7 @@ const characterBackgrounds = ["Acolyte", "Acolyte - Baldur's Gate", "Acolyte (Lu
 rollD6 = () => Math.floor(Math.random() * (6 - 1) + 2);
 
 rollAbilityScores = () => {
-    var diceRolls = [];
+    const diceRolls = [];
 
     let firstD6 = rollD6();
     diceRolls.push(firstD6);
